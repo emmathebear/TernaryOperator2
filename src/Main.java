@@ -5,6 +5,6 @@ public class Main {
     }
 
     private static String checkString(String value) {
-        return value.length()>=10?"Lunghezza maggiore o uguale di 10":"Lunghezza minore di 10" ;
+        return value.length() >= 10 ? "Lunghezza maggiore o uguale di 10" : "Lunghezza minore di 10";
     }
 }
